@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341570887346",
+    "project_id": "diab-6464c",
+    "storage_bucket": "diab-6464c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341570887346:android:a52bbe7730e80cbb56b3ab",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341570887346-7rdf0bb7bmovuk8g3vtt3r1r87v37a3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ9xbZ6EC9VNT9VfxYh9sn9MIWS-L7tR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341570887346-7rdf0bb7bmovuk8g3vtt3r1r87v37a3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
